@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Django Nginx Secure Links'
+project = 'django-nginx-secure-links'
 copyright = '2022, Eugene Hatsko'
 author = 'Eugene Hatsko'
 
